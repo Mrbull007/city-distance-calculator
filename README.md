@@ -8,8 +8,7 @@ No API keys, no backend, no installation hassle. Just open it in your browser an
 [![GitHub stars](https://img.shields.io/github/stars/Crypto_is_Futur/city-distance-calculator)](https://github.com/Crypto_is_Futur/city-distance-calculator)
 [![GitHub forks](https://img.shields.io/github/forks/Crypto_is_Futur/city-distance-calculator)](https://github.com/Crypto_is_Futur/city-distance-calculator)
 
-![Demo GIF](https://github.com/Crypto_is_Futur/city-distance-calculator/raw/main/screenshots/demo.gif)  
-*(Replace the GIF link with your actual demo recording after you build the app)*
+
 
 ## ✨ Features
 
@@ -58,7 +57,7 @@ Where:
 ### Option 1: Run Locally (Recommended for development)
 ```bash
 # 1. Clone the repository
-git clone https://github.com/Crypto_is_Futur/city-distance-calculator.git
+git clone https://github.com/Mrbull007/city-distance-calculator.git
 cd city-distance-calculator
 
 # 2. Open the file
